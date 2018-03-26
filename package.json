@@ -1,0 +1,28 @@
+{
+  "name": "hatebubot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "yodake1112@gmail.com",
+  "description": "hatena-rss bost",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rss-reader": "^0.8.3",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "peer": "^0.2.8",
+    "rss-parser": "^3.1.2"
+  },
+  "engines": {
+    "node": "8.10.x"
+  }
+}
